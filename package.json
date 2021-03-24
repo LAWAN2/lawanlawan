@@ -1,0 +1,23 @@
+{
+  "name": "Fake-Account-Generator-BOT",
+  "version": "1.0.0",
+  "description": "💾 Fake Account Generator Discord BOT Using JavaScript codes go here.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woosal1337/Fake-Account-Generator-BOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woosal1337/Fake-Account-Generator-BOT/issues"
+  },
+  "homepage": "https://github.com/woosal1337/Fake-Account-Generator-BOT#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
