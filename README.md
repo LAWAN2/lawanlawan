@@ -1,2 +1,2 @@
-# Fake-Account-Generator-BOT
-💾 Fake Account Generator Discord BOT Using JavaScript codes go here.
+# 💾 Fake Account Generator Discord BOT
+### Fake data, fake people, fake world. hEHHEhEEhEeHeeE
